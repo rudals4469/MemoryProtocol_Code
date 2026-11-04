@@ -1,5 +1,7 @@
 # MemoryProtocol
 
+![겹친 퍼즐을 옮기고 해결하는 플레이 영상](Images/PuzzleMaker_StackProgress.gif)
+
 겹쳐진 미로를 옮겨 숨은 길을 찾고, 퍼즐을 풀어 가려진 문장을 복원하는 2D 퍼즐 게임입니다.
 
 Unity 6000.3.18f1 · C# · Windows PC 대상 · 1스테이지 프로토타입
